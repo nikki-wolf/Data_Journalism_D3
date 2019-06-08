@@ -29,3 +29,19 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
+#textDisplay {
+  font: bold 48px monospace;
+} 
+
+.enter {
+  fill: blue;
+}
+
+.update {
+  fill: green;
+}
+
+.exit {
+  fill: brown;
+}
