@@ -9,6 +9,11 @@ html {
   min-height: 100%;
 }
 
+#textVs {
+  font-size: 30px;
+  padding-top: 120px;
+}
+
 body {
   /* Padding bottom by footer height */
   padding-bottom: 80px;
